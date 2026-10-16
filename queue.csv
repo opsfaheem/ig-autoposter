@@ -1,2 +1,2 @@
 id,type,media_urls,caption,hashtags,publish_at,status,post_id,error
-1,IMAGE,https://raw.githubusercontent.com/opsfaheem/ig-autoposter/main/media/post1.jpg,"My first automated post!",#test,2026-10-15T09:00:00Z,,,
+1,IMAGE,https://raw.githubusercontent.com/opsfaheem/ig-autoposter/main/media/post1.jpg,My first automated post!,#test,2026-10-15T09:00:00Z,posted,18451711726125716,
