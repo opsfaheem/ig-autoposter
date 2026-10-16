@@ -1,4 +1,4 @@
 id,type,media_urls,caption,hashtags,publish_at,status,post_id,error
-1,IMAGE,https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/media/post1.jpg,"First automated post!",#automation #test,2026-10-20T09:00:00Z,,,
-2,REELS,https://YOUR-BUCKET.r2.dev/reel1.mp4,"Behind the scenes",#reels #bts,2026-10-21T15:00:00Z,,,
-3,CAROUSEL,https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/media/s1.jpg|https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/media/s2.jpg,"Swipe through",#carousel,2026-10-22T09:00:00Z,,,
+1,IMAGE,https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/media/post1.jpg,First automated post!,#automation #test,2026-10-20T09:00:00Z,,,
+2,REELS,https://YOUR-BUCKET.r2.dev/reel1.mp4,Behind the scenes,#reels #bts,2026-10-21T15:00:00Z,,,
+3,CAROUSEL,https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/media/s1.jpg|https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/media/s2.jpg,Swipe through,#carousel,2026-10-22T09:00:00Z,,,
