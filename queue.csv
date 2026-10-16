@@ -1,2 +1,2 @@
 id,type,media_urls,caption,hashtags,publish_at,status,post_id,error
-1,IMAGE,https://raw.githubusercontent.com/opsfaheem/ig-autoposter/main/test.jpg,My first automated post!,#test,2026-10-15T09:00:00Z,error,,Only photo or video can be accepted as media type. (code 9004)
+1,IMAGE,https://cdn.jsdelivr.net/gh/opsfaheem/ig-autoposter@main/test.jpg,"My first automated post!",#test,2026-10-15T09:00:00Z,,,
